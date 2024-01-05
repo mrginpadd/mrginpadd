@@ -47,13 +47,12 @@
 
 <h1>2024年目标</h1>
 
-❌ 真传项目 Flutter 实现
-❌ 真传项目 iOS 实现
-❌ 设计模式
-❌ leetcode 突破100题
-❌ 算法总结
-❌ iOS\Flutter性能优化
-❌ iOS\Flutter架构
+<p>❌ 真传项目 Flutter 实现</p>
+<p>❌ 真传项目 iOS 实现</p>
+<p>❌ leetcode 突破100题</p>
+<p>❌ 算法总结</p>
+<p>❌ iOS\Flutter性能优化</p>
+<p>❌ 真传项目 Flutter 实现</p>
+<p>❌ iOS\Flutter架构</p>
 
 
-</ul>
