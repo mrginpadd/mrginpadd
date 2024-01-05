@@ -15,6 +15,11 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrginpadd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrginpadd&layout=compact" alt="Top Langs">
+  </a>
+</div>
 
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
