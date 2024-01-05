@@ -13,18 +13,17 @@
 
 ## 评级
  
-<div align="center">
+<div style="display: inline-block;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrginpadd&layout=compact&theme=dark&bg_color=00000000" alt="Top Langs">
   </a>
-<!-- </div> -->
-
+</div>
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<table align="center">
+<table style="display: inline-block;">
   <tr>
     <td align="center">
-      <div><b><em><spam>Statistics</spam></em></b></div>
+      <div><b><em><span>Statistics</span></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
     <td align="left">
@@ -32,6 +31,7 @@
     </td>
   </tr>
 </table>
+
 
 ## leetcode 中/英
 
