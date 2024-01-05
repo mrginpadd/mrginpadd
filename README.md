@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我是徐世豪，一个要成为强者的男人! 稳定器我去掉七味都气丸我们顶峰相见"&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我是徐世豪，一个要成为强者的男人稳定器我去掉七味都气丸我们顶峰相见"&center=true&size=27"> </a> </h1>
 
 ## 访问次数
 <div align="left">
