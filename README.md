@@ -14,7 +14,7 @@
 
 ## leetcode
 
-<img src="https://stats.justsong.cn/api/leetcode/?username=豪仔&theme=dark"></img>
+<img src="https://stats.justsong.cn/api/leetcode/?username=xushihao&theme=dark"></img>
 
 
 <sub>These infographics were generated using [mrginpadd/metrics](https://github.com/mrginpadd/metrics)</sub>
