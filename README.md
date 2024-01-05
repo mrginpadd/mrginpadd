@@ -47,5 +47,14 @@
 
 <h1>2024年目标</h1>
 <ul>
-  <li><input type="checkbox" value="true"> 完成个人真传项目;</li>
+  <li><label><input type="checkbox" checked> 选项1</label></li>
+  <li><label><input type="checkbox" checked> 选项2</label></li>
+  <li><label><input type="checkbox" checked> 选项3</label></li>
+  <li><label><input type="checkbox" checked> 选项4</label></li>
+  <li><label><input type="checkbox" checked> 选项5</label></li>
+  <li><label><input type="checkbox"> 选项6</label></li>
+  <li><label><input type="checkbox"> 选项7</label></li>
+  <li><label><input type="checkbox"> 选项8</label></li>
+  <li><label><input type="checkbox"> 选项9</label></li>
+  <li><label><input type="checkbox"> 选项10</label></li>
 </ul>
