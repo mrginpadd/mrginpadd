@@ -26,5 +26,5 @@
 <img src="https://stats.justsong.cn/api/leetcode/?username=xushihao&theme=light&cn=true"></img>
 
 ## 掘金
-<img src="https://stats.justsong.cn/api/juejin?id=X十号"></img>
+<img src="https://stats.justsong.cn/api/juejin?id=4877442362455"></img>
 
