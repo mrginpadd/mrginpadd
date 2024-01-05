@@ -45,3 +45,7 @@
 <img src="https://stats.justsong.cn/api/juejin?id=4877442362455"></img>
 
 
+<h1>2024年目标</h1>
+<ul>
+  <li><input type="checkbox" value="true"> 完成个人真传项目;</li>
+</ul>
