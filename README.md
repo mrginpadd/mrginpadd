@@ -46,15 +46,14 @@
 
 
 <h1>2024年目标</h1>
-<ul>
-  <li><label>❌</label></li>
-  <li><label>❌ 选项2</label></li>
-  <li><label>选项3</label></li>
-  <li><label> 选项4</label></li>
-  <li><label> 选项5</label></li>
-  <li><label> 选项6</label></li>
-  <li><label>选项7</label></li>
-  <li><label>选项8</label></li>
-  <li><label>选项9</label></li>
-  <li><label> 选项10</label></li>
+
+❌ 真传项目 Flutter 实现
+❌ 真传项目 iOS 实现
+❌ 设计模式
+❌ leetcode 突破100题
+❌ 算法总结
+❌ iOS\Flutter性能优化
+❌ iOS\Flutter架构
+
+
 </ul>
