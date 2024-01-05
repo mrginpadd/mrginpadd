@@ -36,9 +36,8 @@
 
 
 
-## leetcode 中/英
+## leetcode 中
 
-<img src="https://stats.justsong.cn/api/leetcode/?username=xushihao&theme=dark"></img>
 <img src="https://stats.justsong.cn/api/leetcode/?username=xushihao&theme=light&cn=true"></img>
 
 ## 掘金
