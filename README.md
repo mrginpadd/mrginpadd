@@ -1,3 +1,6 @@
+
+![Static Badge](https://img.shields.io/badge/xsh_never_forget_to_be_a_superman-blue)
+
 <h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%22我的世界很大,有无限的可能性。所有的一切，从眼前这张桌子开始。 它是我的现在，也是我的未来。尝试，是一刹那的决定，却注定了成功和失败。%22"&center=true&size=27"> </a> </h1>
 <h4 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我是徐世豪，我为自己代言。"&center=true&size=17"> </a> </h4>
 
