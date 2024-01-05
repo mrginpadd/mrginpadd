@@ -1,5 +1,5 @@
-<h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我的世界很大"&center=true&size=27"> </a> </h1>
-<h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=有无限的可能性"&center=true&size=27"> </a> </h1>
+<h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我的世界很大;有无限的可能性"&center=true&size=27"> </a> </h1>
+<h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines="&center=true&size=27"> </a> </h1>
 <h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=所有的一切，从眼前这张桌子开始"&center=true&size=27"> </a> </h1>
 <h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=它是我的现在，也是我的未来"&center=true&size=27"> </a> </h1>
 <h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=尝试，是一刹那的决定，却注定了成功和失败"&center=true&size=27"> </a> </h1>
